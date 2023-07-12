@@ -1,5 +1,5 @@
 
-# <div align="center">Hello ✨ 👋
+# <div align="left">Hello ✨  👋
 I'm Larissa, a data analyst 👩‍💻  based in Portugal 🇵🇹 
 </div>  
   
