@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Larissa, a data analyst 👩‍💻  based in Portugal 🇵🇹 <br>  <br>✨ About me in 15 secs<br><br>- ⭐️ I have a Customer Service and Trust & Safety background<br>- 🍪 I have experience in Data Cleaning, Data Visualization, working with several stakeholders across different timezones<br>- 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)  <br>- 🌱 I’m currently learning Power BI and Python 🐍  <br>- ❓ Ask me about anything related to dog training 🦮  <br>  <br>
+# 💫 About Me in 15 secs:
+I'm Larissa, a data analyst 👩‍💻  based in Portugal 🇵🇹 <br>  <br>- ⭐️ I have a Customer Service and Trust & Safety background<br>- 🍪 I have experience in Data Cleaning, Data Visualization, working with several stakeholders across different timezones<br>- 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)  <br>- 🌱 I’m currently learning Power BI and Python 🐍  <br>- ❓ Ask me about anything related to dog training 🦮  <br>  <br>
 
 
 ## 💌 Where to [professionally] Find me:
