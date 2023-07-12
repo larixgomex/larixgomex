@@ -4,10 +4,9 @@ I'm Larissa, a data analyst 👩‍💻  based in Portugal 🇵🇹 <br>  <br>- 
 
 ## 💌 Where to [professionally] Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larigomes) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=larixgomex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=larixgomex&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=larixgomex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 Some of my Tableau Projects:
+[AirBnb in 10 Major Cities](https://public.tableau.com/app/profile/larissa.gomes5648/viz/AirBnbListingsMavenAnalytics/Dashboard1)
+[My Love Story with Food Delivery](https://public.tableau.com/app/profile/larissa.gomes5648/viz/MyWoltOrders/Dashboard1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
