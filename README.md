@@ -5,8 +5,8 @@ I'm Larissa, a data analyst 👩‍💻  based in Portugal 🇵🇹 <br>  <br>- 
 ## 💌 Where to [professionally] Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larigomes) 
 # 📊 Some of my Tableau Projects:
-[AirBnb in 10 Major Cities](https://public.tableau.com/app/profile/larissa.gomes5648/viz/AirBnbListingsMavenAnalytics/Dashboard1)
-[My Love Story with Food Delivery](https://public.tableau.com/app/profile/larissa.gomes5648/viz/MyWoltOrders/Dashboard1)
+● Short-term Rentals - [AirBnb in 10 Major Cities](https://public.tableau.com/app/profile/larissa.gomes5648/viz/AirBnbListingsMavenAnalytics/Dashboard1) <br>
+● My Love Story with Food Delivery - [Wolt Dashboard](https://public.tableau.com/app/profile/larissa.gomes5648/viz/MyWoltOrders/Dashboard1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
