@@ -4,7 +4,7 @@ I'm Larissa, a data analyst 👩‍💻  based in Portugal 🇵🇹
 </div>  
   
 
-- 🔭 I’m currently working on [my Tableau Public page](hhttps://public.tableau.com/app/profile/larissa.gomes5648)  
+- 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)  
   
 
 - 🌱 I’m currently learning Power BI and Python 🐍  
