@@ -1,5 +1,5 @@
 # 💫 About Me in 15 secs:
-I'm Larissa, a data analyst 👩‍💻 from Brazil and based in Portugal 🇵🇹 <br>  <br>-⭐️ I have a Trust & Safety background <br>- 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)  <br>- 🌱 I’m currently learning Power BI and Python 🐍  <br>- ❓ Ask me about anything related to dog training 🦮  <br>- 🚢 Fun fact: I have a degree in Maritime Engineering <br><br>
+I'm Larissa, a data analyst 👩‍💻 from Brazil currently based in Portugal 🇵🇹 <br>  <br>-⭐️ I have a Trust & Safety background <br>- 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)  <br>- 🌱 I’m currently learning Power BI and Python 🐍  <br>- ❓ Ask me about anything related to dog training 🦮  <br>- 🚢 Fun fact: I have a degree in Maritime Engineering <br><br>
 
 
 ## 💌 Where to [professionally] Find me:
