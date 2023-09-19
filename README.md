@@ -6,7 +6,7 @@ I'm Larissa, a data analyst 👩‍💻 from Brazil currently based in Portugal 
 - 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)
 - 🌱 I’m currently learning Statistics and Python 🐍
 - ❓ Ask me about anything related to Tableau and dog training 🦮
-- 🚢 Fun fact: I spent 6 month at the sea
+- 🚢 Fun fact: I spent 6 months at the sea 
 
 ## 💌 Where to [professionally] Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larigomes) <br><br>
