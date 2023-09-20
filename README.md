@@ -12,7 +12,7 @@ I'm Larissa, a data analyst 👩‍💻 from Brazil currently based in Portugal 
 - ❓ Ask me about anything related to Tableau and reinforcement learning in dogs 🦮
 - 🚢 Fun fact: I spent 6 months working at the sea 
 
-## 💌 Where to [professionally] Find me:
+## 💌 Where to find me:
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larigomes) 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/larissa.gomes5648) <br>
 
