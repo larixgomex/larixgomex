@@ -13,7 +13,8 @@ I'm Larissa, a data analyst 👩‍💻 from Brazil currently based in Portugal 
 - 🚢 Fun fact: I spent 6 months working at the sea 
 
 ## 💌 Where to [professionally] Find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larigomes) <br><br>
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larigomes) 
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/larissa.gomes5648) <br>
 # 📊 Some of my Tableau Projects:
 🐙 Superstore Yearly Sales Overview - [View here](https://public.tableau.com/app/profile/larissa.gomes5648/viz/WIPSuperstoreSales/SalesOverview)<br>
 🛎 AirBnb in 10 major cities - [View here](https://public.tableau.com/app/profile/larissa.gomes5648/viz/AirBnbListingsMavenAnalytics/Dashboard1) <br>
