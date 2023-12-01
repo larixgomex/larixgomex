@@ -6,10 +6,10 @@
 
 I'm Larissa, a data analyst 👩‍💻 from Brazil currently based in Portugal 🇵🇹
 
-- ✨ I have a Trust & Safety background
+- ✨ I've had to wear many hats in my career, unfortunately, never a literal one because my head is too big 🤠
 - 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)
-- 🌱 I’m currently learning Statistics and Python 🐍
-- ❓ Ask me about anything related to Tableau and reinforcement learning in dogs 🦮
+- 🌱 I’m currently learning Statistics 🐍
+- ❓ Ask me about anything about my dog
 - 🚢 Fun fact: I spent 6 months working at the sea 
 
 ## 💌 Where to find me:
