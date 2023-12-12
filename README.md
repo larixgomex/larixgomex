@@ -4,7 +4,7 @@
 
 # ⭐️ About me in 30 seconds . . .
 
-I'm Larissa, a data analyst 👩‍💻 from Brazil currently based in Portugal 🇵🇹
+I'm Larissa, a data analyst 👩‍💻 from Brazil,
 
 - ✨ I've had to wear many hats in my career, unfortunately, never a literal one because my head is too big 🤠
 - 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)
