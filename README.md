@@ -6,7 +6,6 @@
 
 I'm Larissa, a data analyst 👩‍💻 from Brazil,
 
-- ✨ I've had to wear many hats in my career, unfortunately, never a literal one because my head is too big 🤠
 - 🔭 I’m currently working on [my Tableau Public page](https://public.tableau.com/app/profile/larissa.gomes5648)
 - 🌱 I’m currently learning Statistics 🐍
 - ❓ Ask me about anything about my dog
